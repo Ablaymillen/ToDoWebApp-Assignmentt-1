@@ -1,5 +1,6 @@
 # ToDoWebApp-Assignmentt-1
 ### To Do Web Application Project
+![alt text](http://url/to/img.png)
 User enters the website's system by signing up.
 After authenticating they can use todo list web service.
 They can add task, edit or delete task to the list.
